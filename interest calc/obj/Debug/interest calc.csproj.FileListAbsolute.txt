@@ -1,0 +1,12 @@
+C:\Users\17g01acs059\source\repos\interest calc\interest calc\bin\Debug\interest calc.exe.config
+C:\Users\17g01acs059\source\repos\interest calc\interest calc\bin\Debug\interest calc.exe
+C:\Users\17g01acs059\source\repos\interest calc\interest calc\bin\Debug\interest calc.pdb
+C:\Users\17g01acs059\source\repos\interest calc\interest calc\obj\Debug\interest calc.csprojAssemblyReference.cache
+C:\Users\17g01acs059\source\repos\interest calc\interest calc\obj\Debug\interest_calc.Form1.resources
+C:\Users\17g01acs059\source\repos\interest calc\interest calc\obj\Debug\interest_calc.Properties.Resources.resources
+C:\Users\17g01acs059\source\repos\interest calc\interest calc\obj\Debug\interest calc.csproj.GenerateResource.cache
+C:\Users\17g01acs059\source\repos\interest calc\interest calc\obj\Debug\interest calc.csproj.CoreCompileInputs.cache
+C:\Users\17g01acs059\source\repos\interest calc\interest calc\obj\Debug\interest calc.exe
+C:\Users\17g01acs059\source\repos\interest calc\interest calc\obj\Debug\interest calc.pdb
+C:\Users\HP\source\repos\C#\interest calc\interest calc\obj\Debug\interest calc.exe
+C:\Users\HP\source\repos\C#\interest calc\interest calc\obj\Debug\interest calc.pdb
